@@ -20,11 +20,12 @@ public class C01_Constructor {
     Tamam ii) Oyuncu devam etmek istemiyorsa
     sonra "Oyun Bitti" yazdırın ve puanları ve kazananı yazdırın
     */
-   public static void main(String[] args) {
-
-    Scanner input=new Scanner(System.in);
-       System.out.println("oyunu baslatmak icin bir kelime giriniz");
-       String k1=input.nextLine();
 
 
-}}
+
+
+}
+
+
+
+
